@@ -1,0 +1,28 @@
+READ: bw=125MiB/s (131MB/s), 125MiB/s-125MiB/s (131MB/s-131MB/s), io=384KiB (393kB), run=3-3msec
+READ: bw=188MiB/s (197MB/s), 188MiB/s-188MiB/s (197MB/s-197MB/s), io=384KiB (393kB), run=2-2msec
+READ: bw=375MiB/s (393MB/s), 375MiB/s-375MiB/s (393MB/s-393MB/s), io=384KiB (393kB), run=1-1msec
+READ: bw=375MiB/s (393MB/s), 375MiB/s-375MiB/s (393MB/s-393MB/s), io=384KiB (393kB), run=1-1msec
+READ: bw=375MiB/s (393MB/s), 375MiB/s-375MiB/s (393MB/s-393MB/s), io=384KiB (393kB), run=1-1msec
+READ: bw=375MiB/s (393MB/s), 375MiB/s-375MiB/s (393MB/s-393MB/s), io=384KiB (393kB), run=1-1msec
+ 
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=640KiB (655kB), run=3-3msec
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=640KiB (655kB), run=3-3msec
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=640KiB (655kB), run=3-3msec
+READ: bw=156MiB/s (164MB/s), 156MiB/s-156MiB/s (164MB/s-164MB/s), io=640KiB (655kB), run=4-4msec
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=640KiB (655kB), run=3-3msec
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=640KiB (655kB), run=3-3msec
+ 
+READ: bw=438MiB/s (459MB/s), 438MiB/s-438MiB/s (459MB/s-459MB/s), io=4480KiB (4588kB), run=10-10msec
+READ: bw=547MiB/s (573MB/s), 547MiB/s-547MiB/s (573MB/s-573MB/s), io=4480KiB (4588kB), run=8-8msec
+READ: bw=208MiB/s (218MB/s), 208MiB/s-208MiB/s (218MB/s-218MB/s), io=4480KiB (4588kB), run=21-21msec
+READ: bw=438MiB/s (459MB/s), 438MiB/s-438MiB/s (459MB/s-459MB/s), io=4480KiB (4588kB), run=10-10msec
+READ: bw=438MiB/s (459MB/s), 438MiB/s-438MiB/s (459MB/s-459MB/s), io=4480KiB (4588kB), run=10-10msec
+READ: bw=219MiB/s (229MB/s), 219MiB/s-219MiB/s (229MB/s-229MB/s), io=4480KiB (4588kB), run=20-20msec
+ 
+READ: bw=791MiB/s (829MB/s), 791MiB/s-791MiB/s (829MB/s-829MB/s), io=48.2MiB (50.6MB), run=61-61msec
+READ: bw=1177MiB/s (1234MB/s), 1177MiB/s-1177MiB/s (1234MB/s-1234MB/s), io=48.2MiB (50.6MB), run=41-41msec
+READ: bw=1177MiB/s (1234MB/s), 1177MiB/s-1177MiB/s (1234MB/s-1234MB/s), io=48.2MiB (50.6MB), run=41-41msec
+READ: bw=1270MiB/s (1331MB/s), 1270MiB/s-1270MiB/s (1331MB/s-1331MB/s), io=48.2MiB (50.6MB), run=38-38msec
+READ: bw=1097MiB/s (1150MB/s), 1097MiB/s-1097MiB/s (1150MB/s-1150MB/s), io=48.2MiB (50.6MB), run=44-44msec
+READ: bw=1122MiB/s (1177MB/s), 1122MiB/s-1122MiB/s (1177MB/s-1177MB/s), io=48.2MiB (50.6MB), run=43-43msec
+ 
